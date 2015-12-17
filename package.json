@@ -1,0 +1,24 @@
+{
+  "name": "djangui-app-api",
+  "version": "1.0.0",
+  "description": "backend composant of responsive djangui app",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanning92/djangui-app-api.git"
+  },
+  "keywords": [
+    "djangui",
+    "app",
+    "djangui-app"
+  ],
+  "author": "yanning92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanning92/djangui-app-api/issues"
+  },
+  "homepage": "https://github.com/yanning92/djangui-app-api#readme"
+}
